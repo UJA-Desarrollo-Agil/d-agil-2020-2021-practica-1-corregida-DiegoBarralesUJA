@@ -10,3 +10,10 @@ Profesor del departamento de Informática de la Universidad de Jaén.
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
+
+### Diego Barrales Castillo
+
+Alumno del grado de Ingeniería Informática de la Universidad de Jaén.
+* **Correo**: dbc00009@red.ujaen.es
+* **GitHub**: https://github.com/DiegoBarralesUJA
+* **Trello**: https://trello.com/diegobarralescastillo
